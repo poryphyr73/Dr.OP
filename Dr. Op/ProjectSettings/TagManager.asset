@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Border
+  - Bullet
+  - Enemy
+  - Scrap
+  - Title
+  - Description
+  - Price
+  - Canvas
+  - ScrapBar
+  - Shop
+  - WaveHandler
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - PlayerDamage
+  - Water
+  - UI
+  - Player
+  - Enemies
+  - Bullets
+  - 
+  - Border
+  - Scrap
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Parallax
+    uniqueID: 2676284791
+    locked: 0
+  - name: Shop
+    uniqueID: 661985995
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Enemies
+    uniqueID: 1686108175
+    locked: 0
+  - name: Player
+    uniqueID: 3011975617
+    locked: 0
+  - name: GunMods
+    uniqueID: 1487465751
+    locked: 0

@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: e89eee114b6ec66408cec4e8b7f0b6e9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - scrap: {fileID: 8031252504681740859, guid: 968e711381a61cb40a8aad2a8e1dc39c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
